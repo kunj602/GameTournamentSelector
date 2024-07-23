@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GameTournamentSelector</string>
+    <string name="select_game_label">Select a Game</string>
+    <string name="tournament_label">Select a Tournament</string>
+    <string name="winner_button">Show Winner</string>
+
+    <string-array name="games_array">
+        <item>Soccer</item>
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Tennis</item>
+        <item>Hockey</item>
+    </string-array>
+
+    <string-array name="tournaments_array">
+        <item>World Cup</item>
+        <item>Olympics</item>
+        <item>Champions League</item>
+        <item>Grand Slam</item>
+        <item>Stanley Cup</item>
+    </string-array>
+</resources>
